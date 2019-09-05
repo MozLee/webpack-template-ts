@@ -1,2 +1,0 @@
-# webpack-template-ts
-init
